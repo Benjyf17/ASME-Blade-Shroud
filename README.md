@@ -1,7 +1,7 @@
 # Autonomous Boat Blade Shroud
 
 ## Problem Statement
-The autonomous boat's blades needed a shroud to protect them and improve water flow around them, helping the blades spin faster. The shroud had to mount directly to the motor using its existing hole pattern.
+The autonomous boat's propeller blades required a protective shroud to improve safety and optimize water flow around the blades, with the goal of increasing rotational performance. The design also needed to mount directly to the motor while maintaining compatibility with its existing mounting hole pattern.
 
 ## My Role
 Designed and prototyped the shroud in SolidWorks for UNF's ASME team.
