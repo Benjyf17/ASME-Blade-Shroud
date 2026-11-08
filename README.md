@@ -14,6 +14,7 @@ Designed and prototyped the shroud in SolidWorks for UNF's ASME team.
 - **Manufacturing:** 3D printed
 
 ## Images
+<img width="1188" height="745" alt="image" src="https://github.com/user-attachments/assets/12c57708-23cc-4159-a758-9bf767b897e6" />
 
 
 ## What I Learned
